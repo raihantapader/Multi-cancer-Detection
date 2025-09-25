@@ -20,3 +20,6 @@ two main advancements: (1) quantitative evidence of CNN-
 RNN synergy in histopathology analysis, and (2) establishing
 benchmark performance on a mid-scale dataset for multi-cancer
 classification.'''
+
+
+Dataset Url: https://huggingface.co/datasets/1aurent/LC25000
